@@ -3,7 +3,7 @@
   <img style="max-width: 100%;" alt="logo" src="img/project-logo.png"/>
 </p>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://https://download2.llamameta.net/*-1.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/npm-%3E%3D9.5.0-blue.svg" />
   <img src="https://img.shields.io/badge/node-%3E%3D19.7.0-blue.svg" />
   <a href="https://github.com/vectara/vectara-answer#readme" target="_blank">
